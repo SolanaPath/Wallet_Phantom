@@ -1,8 +1,5 @@
 "use client"
 
-import {
-    WalletModalProvider,
-} from "@solana/wallet-adapter-react-ui";
 import { useWallet } from "@solana/wallet-adapter-react";
 import dynamic from "next/dynamic";
 
